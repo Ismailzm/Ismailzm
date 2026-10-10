@@ -79,6 +79,10 @@ To become a skilled **Full Stack Developer / Data Engineer** and work on impactf
 
 <p align="center">📍 Bengaluru, India | 🎓 Engineering Student</p>
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismailzm&show_icons=true&theme=tokyonight)
+
 
 
 
